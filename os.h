@@ -2,8 +2,8 @@
 #define _OS_H_
 
 #include <list>
-#include <iostream>
 #include <algorithm>
+#include <iostream>
 #include "memNode.h"
 using namespace std;
 

@@ -1,6 +1,5 @@
 #ifndef _MEMNODE_H_
 #define _MEMNODE_H_
-#include <iostream>
 
 class memNode
 {
